@@ -1,7 +1,7 @@
 # 🔥 News
 - The show must go on.
-- *2026.05*: 🎉 KPMG was accepted by IEEE ICASSP 2026.
-- *2026.05*: 🎉 GlucoMixer was accepted by IEEE ICASSP 2026.
+- *2026.05*: 🎉 [KPMG (Oral)](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php) was accepted by IEEE ICASSP 2026.
+- *2026.05*: 🎉 [GlucoMixer (Poster)](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php) was accepted by IEEE ICASSP 2026.
 - *2026.05*: 🎉 GluConv was accepted by IEEE PRMVAI 2026. (**Invited as Workshop 21 Chair**)
 - *2026.04*: 🎉 GluPIDHW was accepted by IEEE CYBCONF 2026. (**Invited as Session Chair**)
 - *2025.10*: 🎉 [Attention Mamba](https://ieeexplore.ieee.org/abstract/document/11343445) was accepted by IEEE SMC 2025 and online.
