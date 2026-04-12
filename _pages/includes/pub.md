@@ -62,7 +62,7 @@ Youhao Xu*, **Sijie Xiong***, Tao Sun, Jianing Wang, Cheng Tang, Atsushi Shimada
 </div>
 
 ## Others
-- **Sijie Xiong**, Shuqing Liu, Cheng Tang, Fumiya Okubo, Haoling Xiong, Atsushi Shimada, "[Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Filed Enhancements](https://arxiv.org/abs/2504.02013)", *in 2025 International Conference on Systems, Man, and Cybernetics Society (**SMC**), IEEE*. Oct. 2025.
+- Tao Sun, **Sijie Xiong**, Cheng Tang, Haichuan Yang, Fumiya Okubo, Atsushi Shimada, "Decomposed Seasonal-Trend Network with Rotary Attention for Time Series Forecasting", *in IEEE ICASSP 2026.* May 2026.
 - Yuanyuan Zhang, **Sijie Xiong**, Rui Yang, Eng Gee Lim, Yutao Yue, "[Recover from Horcrux: A Spectrogram Augmentation Method for Cardiac Feature Monitoring from Radar Signal Components](https://arxiv.org/abs/2503.19649)", *in 2025 47th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (**EMBC**), IEEE*. Nov. 2025.
 - Haiqiao Liu, Tsubasa Minematsu, Chengjiu Yin, **Sijie Xiong**, Atsushi Shimada, "Exploring the Relationship Between System Operation Behaviors and Learning Achievement in Agricultural Education", *in 2025 33rd International Conference on Computers in Education (**ICCE**), IEEE*. Oct. 2025.
 - Tao Sun, Li Chen, **Sijie Xiong**, Cheng Tang, Gen Li, Atsushi Shimada, "[FERL-YOLO: Facial Expression Recognition Model of Learners](https://library.apsce.net/index.php/ICLEA/article/view/5498)", *in 2025 International Conference on Learning Evidence and Analytics (**ICLEA**), APSCE*. Sep. 2025.
