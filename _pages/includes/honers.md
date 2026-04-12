@@ -1,6 +1,6 @@
 # 🏅 Honors and Awards
 - *May 2026* **Worshop 21 Chair** of IEEE PRMVAI 2026 hosted by Hohai University.
-- 
+
 - *Apr. 2026* **Session Chair** of IEEE CYBCONF 2026 hosted by Nanjing University.
 
 - *Sep. 2025* **The Best Poster Award** of 2025 International Conference on Learning Evidence and Analytics (**ICLEA**).

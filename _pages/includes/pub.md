@@ -17,10 +17,10 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CYBCONF 2026</div><img src='images/GluPIDHW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CYBCONF 2026 (Session Chair)</div><img src='images/GluPIDHW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-GluPIDHW: A PID-Holt-Winters Model for Personalized Glucose Monitoring
+GluPIDHW: A PID-Holt-Winters Model for Personalized Glucose Monitoring \\
 Youhao Xu+, **Sijie Xiong+**, Tao Sun, Jianing Wang, Cheng Tang, Atsushi Shimada
 
 **Project** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -31,24 +31,33 @@ Youhao Xu+, **Sijie Xiong+**, Tao Sun, Jianing Wang, Cheng Tang, Atsushi Shimada
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PRMVAI 2026</div><img src='images/GluConv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PRMVAI 2026 &#40;Chair&#41;</div><img src='images/GluConv.png' alt="sym" width="100%"></div></div>)
 
-GluConv: Toward Trustworthy Convolutional Modeling for Sequential Signal Forecasting
-**Sijie Xiong**, Haiqiao Liu, Yinlong Hu, Atsushi Shimada
+[//]: # (<div class='paper-box-text' markdown="1">)
 
-**Project** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[//]: # ()
+[//]: # (GluConv: Toward Trustworthy Convolutional Modeling for Sequential Signal Forecasting\\)
 
-- **Abstract**: Sequential signal forecasting is a fundamental challenge in machine learning, requiring models that simultaneously achieve high accuracy, responsiveness, trustworthiness. Existing shallow machine learning approaches provide fast inference but frequently lack trustworthiness in long-term supervision, while deep learning methods with improved reliability typically suffer from reduced responsiveness and degraded accuracy performance. To address these limitations, GluConv, an efficient convolution-based forecasting framework, is proposed. Accuracy, trustworthiness, and responsiveness are well balanced and preserved. GluConv nearly builds upon multi-scale convolutional units to capture both variate correlation and temporal dependency in sequential signals. Extensive experiments on continuous glucose monitoring benchmarks demonstrate that GluConv consistently outperforms excellent machine/deep learning baselines on reliability and responsiveness, while maintaining competitive accuracy. These properties make GluConv a **Conv*incing, **Conv**olutional, and **Conv**enient scheme for trustworthy forecasting.
-- **Core Idea**: Combine U-Net and Convolutions.
-- **Domain**: Time Series Forecasting, Diabetes, Glucose Monitoring
-</div>
-</div>
+[//]: # (**Sijie Xiong**, Haiqiao Liu, Yinlong Hu, Atsushi Shimada)
+
+[//]: # ()
+[//]: # (**Project** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>)
+
+[//]: # ()
+[//]: # (- **Abstract**: Sequential signal forecasting is a fundamental challenge in machine learning, requiring models that simultaneously achieve high accuracy, responsiveness, trustworthiness. Existing shallow machine learning approaches provide fast inference but frequently lack trustworthiness in long-term supervision, while deep learning methods with improved reliability typically suffer from reduced responsiveness and degraded accuracy performance. To address these limitations, GluConv, an efficient convolution-based forecasting framework, is proposed. Accuracy, trustworthiness, and responsiveness are well balanced and preserved. GluConv nearly builds upon multi-scale convolutional units to capture both variate correlation and temporal dependency in sequential signals. Extensive experiments on continuous glucose monitoring benchmarks demonstrate that GluConv consistently outperforms excellent machine/deep learning baselines on reliability and responsiveness, while maintaining competitive accuracy. These properties make GluConv a **Conv**incing, **Conv**olutional, and **Conv**enient scheme for trustworthy forecasting.)
+
+[//]: # (- **Core Idea**: Combine U-Net and Convolutions.)
+
+[//]: # (- **Domain**: Time Series Forecasting, Diabetes, Glucose Monitoring)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026 (Poster)</div><img src='images/GlucoMixer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GlucoMixer: An Efficient Glucose Monitoring Model with Mixers](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)
+[GlucoMixer: An Efficient Glucose Monitoring Model with Mixers](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)\\
 **Sijie Xiong**, Jianing Wang, Tao Sun, Cheng Tang, Fumiya Okubo, Atsushi Shimada
 
 [**Project**](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -77,7 +86,7 @@ GluConv: Toward Trustworthy Convolutional Modeling for Sequential Signal Forecas
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026 (Oral)</div><img src='images/KPMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[KPMG: A Graphical Koopman-Mamba Approach for Financial Markets](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)
+[KPMG: A Graphical Koopman-Mamba Approach for Financial Markets](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)\\
 **Sijie Xiong**, Cheng Tang, Fumiya Okubo, Tsubasa Minematsu, Yinlong Hu, Atsushi Shimada
 
 [**Project**](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -104,11 +113,11 @@ GluConv: Toward Trustworthy Convolutional Modeling for Sequential Signal Forecas
 </div>
 
 ## Others
-- Jianing Wang, Wei Dai, Tianyun Li, Xiang Zhu, Weiye Xu, **Sijie Xiong**, "[Optimization of Nonlinear Energy Sinks for Broadband Vibration Suppression in Marine Propulsion Systems](https://journals.sagepub.com/doi/abs/10.1177/10775463251410791)", *Journal of Vibration and Control (**JVC**)*.
-- Yuanyuan Zhang, Haocheng Zhao, **Sijie Xiong**, Rui Yang, Eng Gee Lim, Yutao Yue, "[From High-SNR Radar Signal to ECG: A Transfer Learning Model with Cardio-Focusing Algorithm for Scenarios with Limited Data](https://ieeexplore.ieee.org/document/11216086)", *IEEE Transactions on Mobile Computing (**TMC**).*
+- Jianing Wang, Wei Dai, Tianyun Li, Xiang Zhu, Weiye Xu, **Sijie Xiong**, "[Optimization of Nonlinear Energy Sinks for Broadband Vibration Suppression in Marine Propulsion Systems](https://journals.sagepub.com/doi/abs/10.1177/10775463251410791)", *Journal of Vibration and Control (**JVC**)*. Jan. 2026.
+- Yuanyuan Zhang, Haocheng Zhao, **Sijie Xiong**, Rui Yang, Eng Gee Lim, Yutao Yue, "[From High-SNR Radar Signal to ECG: A Transfer Learning Model with Cardio-Focusing Algorithm for Scenarios with Limited Data](https://ieeexplore.ieee.org/document/11216086)", *IEEE Transactions on Mobile Computing (**TMC**).* Oct. 2025.
 - Tao Sun, **Sijie Xiong**, Cheng Tang, Haichuan Yang, Fumiya Okubo, Atsushi Shimada, "[Decomposed Seasonal-Trend Network with Rotary Attention for Time Series Forecasting](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)", *in 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**).* May 2026.
 - Yuanyuan Zhang, **Sijie Xiong**, Rui Yang, Eng Gee Lim, Yutao Yue, "[Recover from Horcrux: A Spectrogram Augmentation Method for Cardiac Feature Monitoring from Radar Signal Components](https://arxiv.org/abs/2503.19649)", *in 2025 47th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (**EMBC**), IEEE*. Nov. 2025.
-- Haiqiao Liu, Tsubasa Minematsu, Chengjiu Yin, **Sijie Xiong**, Atsushi Shimada, "Exploring the Relationship Between System Operation Behaviors and Learning Achievement in Agricultural Education", *in 2025 33rd International Conference on Computers in Education (**ICCE**), IEEE*. Oct. 2025.
+- Haiqiao Liu, Tsubasa Minematsu, Chengjiu Yin, **Sijie Xiong**, Atsushi Shimada, "[Exploring the Relationship Between System Operation Behaviors and Learning Achievement in Agricultural Education](https://library.apsce.net/index.php/ICCE/article/view/5974)", *in 2025 33rd International Conference on Computers in Education (**ICCE**), IEEE*. Oct. 2025.
 - Tao Sun, Li Chen, **Sijie Xiong**, Cheng Tang, Gen Li, Atsushi Shimada, "[FERL-YOLO: Facial Expression Recognition Model of Learners](https://library.apsce.net/index.php/ICLEA/article/view/5498)", *in 2025 International Conference on Learning Evidence and Analytics (**ICLEA**), APSCE*. Sep. 2025.
 - Shuqing Liu, Li Chen, **Sijie Xiong**, Haiqiao Liu, Cheng Tang, Atsushi Shimada, "[DiaRoBERTa: A Multi-Party Dialogue Model for Multi-Skill Recognition in Classroom Collaborative Problem Solving Discussions](https://library.apsce.net/index.php/ICLEA/article/view/5475)", *in 2025 International Conference on Learning Evidence and Analytics (**ICLEA**), APSCE*. Sep. 2025.
 - Haiqiao Liu, Tsubasa Minematsu, Chengjiu Yin, Shuqing Liu, **Sijie Xiong**, Atsushi Shimada, "[Integrating Scaffolding Strategies with Environmental Monitoring Systems to Enhance Learning and Practical Skills in Agricultural Education](https://library.apsce.net/index.php/ICLEA/article/view/5497)", *in 2025 International Conference on Learning Evidence and Analytics (**ICLEA**), APSCE*. Sep. 2025.
