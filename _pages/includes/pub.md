@@ -62,7 +62,9 @@ Youhao Xu*, **Sijie Xiong***, Tao Sun, Jianing Wang, Cheng Tang, Atsushi Shimada
 </div>
 
 ## Others
-- Tao Sun, **Sijie Xiong**, Cheng Tang, Haichuan Yang, Fumiya Okubo, Atsushi Shimada, "Decomposed Seasonal-Trend Network with Rotary Attention for Time Series Forecasting", *in IEEE ICASSP 2026.* May 2026.
+- Jianing Wang, Wei Dai, Tianyun Li, Xiang Zhu, Weiye Xu, **Sijie Xiong**, "[Optimization of Nonlinear Energy Sinks for Broadband Vibration Suppression in Marine Propulsion Systems](https://journals.sagepub.com/doi/abs/10.1177/10775463251410791)", *Journal of Vibration and Control (**JVC**)*.
+- Yuanyuan Zhang, Haocheng Zhao, **Sijie Xiong**, Rui Yang, Eng Gee Lim, Yutao Yue, "[From High-SNR Radar Signal to ECG: A Transfer Learning Model with Cardio-Focusing Algorithm for Scenarios with Limited Data](https://ieeexplore.ieee.org/document/11216086)", *IEEE Transactions on Mobile Computing (**TMC**).*
+- Tao Sun, **Sijie Xiong**, Cheng Tang, Haichuan Yang, Fumiya Okubo, Atsushi Shimada, "Decomposed Seasonal-Trend Network with Rotary Attention for Time Series Forecasting", *in 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**).* May 2026.
 - Yuanyuan Zhang, **Sijie Xiong**, Rui Yang, Eng Gee Lim, Yutao Yue, "[Recover from Horcrux: A Spectrogram Augmentation Method for Cardiac Feature Monitoring from Radar Signal Components](https://arxiv.org/abs/2503.19649)", *in 2025 47th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (**EMBC**), IEEE*. Nov. 2025.
 - Haiqiao Liu, Tsubasa Minematsu, Chengjiu Yin, **Sijie Xiong**, Atsushi Shimada, "Exploring the Relationship Between System Operation Behaviors and Learning Achievement in Agricultural Education", *in 2025 33rd International Conference on Computers in Education (**ICCE**), IEEE*. Oct. 2025.
 - Tao Sun, Li Chen, **Sijie Xiong**, Cheng Tang, Gen Li, Atsushi Shimada, "[FERL-YOLO: Facial Expression Recognition Model of Learners](https://library.apsce.net/index.php/ICLEA/article/view/5498)", *in 2025 International Conference on Learning Evidence and Analytics (**ICLEA**), APSCE*. Sep. 2025.
