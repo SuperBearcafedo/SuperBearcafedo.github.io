@@ -17,6 +17,20 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CYBCONF 2026</div><img src='images/GluPIDHW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GluPIDHW: A PID-Holt-Winters Model for Personalized Glucose Monitoring
+Youhao Xu*, **Sijie Xiong***, Tao Sun, Jianing Wang, Cheng Tang, Atsushi Shimada
+
+**Project** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- **Abstract**: The increasing worldwide incidence of diabetes has created a pressing demand for accurate and reliable glucose monitoring. Nevertheless, conventional machine learning methods exhibit limitations in trustworthiness and personalization, while deep learning methods with excellent trustworthiness underperform in accuracy and responsiveness. To realize an equilibrium, we propose an efficient model named GluPIDHW. Built upon an optimized Holt–Winters architecture augmented by a PID controller, GluPIDHW achieves improved accuracy and enhanced responsiveness. Extensive experiments conducted on five recognized datasets and out-of-distribution tasks demonstrate the superiority performance of GluPIDHW over excellent counterparts. This leadership is further validated by a Friedman testing and collectively, GluPIDHW offers a promising paradigm for continuous glucose monitoring and data-driven medical diagnose.
+- **Core Idea**: Analogy from PID controller to Holt-Winters model.
+- **Domain**: Time Series Forecasting, Diabetes, Glucose Monitoring
+</div>
+</div>
+
 ## 🚥🚦 Control & Time Series Forecasting
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC</div><img src='images/CMEMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
