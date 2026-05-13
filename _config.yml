@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sijie Xiong (熊思杰)"
-description              : "Main Research Interest: Time Series Forecasting, Medical Segmentation, Medical Classification."
+description              : "Main Research Interest: Time Series Forecasting, Control Theory, Model Order Reduction, Medical Image Segmentation and Classification."
 repository               : "SuperBearCafedo/SuperBearCafedo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/sijie-kuma-bear"
   dblp             : #"https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0009-0000-2728-235X"
   pinterest        :

@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2024.04 - 2027.03*, SGU-Ph.D., Kyushu University, Fukuoka, Japan.
+- *2024.04 - 2026.09*, SGU-Ph.D., Kyushu University, Fukuoka, Japan. (Early Graduation)
 
 - *2020.10 - 2021.10*, M.Sc., Imperial College London, London, UK.
 
