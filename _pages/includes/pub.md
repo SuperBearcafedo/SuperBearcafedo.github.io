@@ -37,7 +37,6 @@ Youhao Xu+, **Sijie Xiong+**, Tao Sun, Jianing Wang, Cheng Tang, Atsushi Shimada
 
 
 [GluConv: Toward Trustworthy Convolutional Modeling for Sequential Signal Forecasting](https://github.com/SuperBearcafedo/GluConv) \\
-
 **Sijie Xiong**, Haiqiao Liu, Yinlong Hu, Atsushi Shimada
 
 
