@@ -36,7 +36,7 @@ Youhao Xu+, **Sijie Xiong+**, Tao Sun, Jianing Wang, Cheng Tang, Atsushi Shimada
 <div class='paper-box-text' markdown="1">
 
 
-[GluConv: Toward Trustworthy Convolutional Modeling for Sequential Signal Forecasting](https://github.com/SuperBearcafedo/GluConv)\\
+[GluConv: Toward Trustworthy Convolutional Modeling for Sequential Signal Forecasting](https://github.com/SuperBearcafedo/GluConv) \\
 
 **Sijie Xiong**, Haiqiao Liu, Yinlong Hu, Atsushi Shimada
 
@@ -57,7 +57,7 @@ Youhao Xu+, **Sijie Xiong+**, Tao Sun, Jianing Wang, Cheng Tang, Atsushi Shimada
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026 (Poster)</div><img src='images/GlucoMixer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GlucoMixer: An Efficient Glucose Monitoring Model with Mixers](https://ieeexplore.ieee.org/document/11464084)\\
+[GlucoMixer: An Efficient Glucose Monitoring Model with Mixers](https://ieeexplore.ieee.org/document/11464084) \\
 **Sijie Xiong**, Jianing Wang, Tao Sun, Cheng Tang, Fumiya Okubo, Atsushi Shimada
 
 [**Project**](https://ieeexplore.ieee.org/document/11464084) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -86,7 +86,7 @@ Youhao Xu+, **Sijie Xiong+**, Tao Sun, Jianing Wang, Cheng Tang, Atsushi Shimada
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026 (Oral)</div><img src='images/KPMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[KPMG: A Graphical Koopman-Mamba Approach for Financial Markets](https://ieeexplore.ieee.org/document/11461257)\\
+[KPMG: A Graphical Koopman-Mamba Approach for Financial Markets](https://ieeexplore.ieee.org/document/11461257) \\
 **Sijie Xiong**, Cheng Tang, Fumiya Okubo, Tsubasa Minematsu, Yinlong Hu, Atsushi Shimada
 
 [**Project**](https://ieeexplore.ieee.org/document/11461257) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
