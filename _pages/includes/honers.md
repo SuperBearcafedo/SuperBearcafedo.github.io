@@ -1,5 +1,10 @@
 # 🏅 Honors and Awards
+- *May 2026* **The Best Paper Award** of IEEE PRMVAI 2026.
+![Best Paper Award](../../images/PRMVAIBestPaper.png)
+![Oral](../../images/PRMVAIOral.png)
+
 - *May 2026* **Worshop 21 Chair** of IEEE PRMVAI 2026 hosted by Hohai University.
+![Chair](../../images/PRMVAIChair.png)
 
 - *Apr. 2026* **Session Chair** of IEEE CYBCONF 2026 hosted by Nanjing University.
 
